@@ -159,7 +159,7 @@
           <span style="font-size:21px;font-family:仿宋">2</span><span style="font-size:21px;font-family:仿宋">、您理解并同意：本网站上销售商展示的商品和价格等信息仅仅是要约邀请，您下单时须填写您希望购买的商品数量、价款、收货人、联系方式、收货地址（履行地点）、履行方式等内容；系统生成的订单信息是计算机信息系统根据您填写的内容自动生成的数据，仅是您向本网站发出的要约；本网站收到您的订单信息后，只有在本网站将您在订单中订购的商品从仓库实际直接向您发出时（以商品出库为标志），方视为您与本网站之间就实际直接向您发出的商品建立了关系；如果您在一份订单里订购了多种商品并且本网站只给您发出了部分商品时，您与本网站之间仅就实际直接向您发出的商品建立了关系，只有在本网站实际直接向您发出了订单中订购的其他商品时，您和本网站之间就订单中其他已实际直接向您发出的商品才成立关系。</span>
         </p>
         <p style=";margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:40px;background:white">
-          <span style="font-size:21px;font-family:仿宋">3</span><span style="font-size:21px;font-family:仿宋">、尽管本网站做出最大的努力，但由于市场变化及各种以合理商业努力难以控制因素的影响，本网站无法避免您提交的订单信息中的商品出现缺货、价格标示错误等情况；如您下单所购买的商品出现以上情况，您有权取消订单，本网站亦有权自行取消订单，若您已经付款，则为您办理退款。</span>
+          <span style="font-size:21px;font-family:仿宋">3</span><span style="font-size:21px;font-family:仿宋">、尽管本网站做出最大的努力，但由于市场变化及各种以合理商业努力难以控制因素的影响，本网站无法避免您提交的订单信息中的商品出现缺货、价格标示错误等情况；如您下单所购买的商品出现以上情况，您有权取消订单，本网站亦有权自行取消订单，若您已经付款，则为您办理退款。由于市场变动无法避免，因而会影响价格的波动，如有此情况会第一时间在平台的公告栏发出公告，若您在下单购买时发现价格与之前看的有所差异，则已下单时价格为准。</span>
         </p>
         <p style=";margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:40px;background:white">
           <span style="font-size:21px;font-family:仿宋">四、配送和交付</span>

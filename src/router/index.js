@@ -132,7 +132,6 @@ const routes = [
 ]
 
 const router = new VueRouter({
-  // base: '/sun_go/',
   mode: 'history',
   base: process.env.BASE_URL,
   routes,
