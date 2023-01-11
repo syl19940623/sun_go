@@ -221,8 +221,8 @@
     }
     .step{float: right;overflow: hidden;width: 450px;}
   }
-  .category{width: 1200px;margin: 0 auto;background: #E3E3E3;overflow: hidden;
-    li{width: calc(100% / 5);float: left;line-height: 36px;text-align: center;position: relative;cursor: pointer;
+  .category{width: 1200px;margin: 0 auto;background: #E3E3E3;display: flex;
+    li{line-height: 36px;text-align: center;position: relative;cursor: pointer;flex: 1;
       a{color: #606060;display: block;}
     }
     li:not(:last-child)::after{content: '';position: absolute;width: 1px;height: 40%;background: #606060;top: 50%;right: 0;transform: translateY(-50%);}
